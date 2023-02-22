@@ -50,15 +50,15 @@ darkmode: false
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
-  safari_pinned_tab: /images/logo.svg
+  small: /images/dog_logo.png
+  medium: /images/dog_logo.png
+  apple_touch_icon: /images/dog_logo.png
+  safari_pinned_tab: /images/dog_logo.png
   #android_manifest: /manifest.json
 
 # Custom Logo (Warning: Do not support scheme Mist)
 # custom_logo: #/uploads/custom-logo.png
-custom_logo: https://dogiscute.com/images/dog_logo.png
+custom_logo: /uploads/dog_logo.png
 
 # Creative Commons 4.0 International License.
 # See: https://creativecommons.org/about/cclicenses/
