@@ -98,8 +98,10 @@ open_graph:
 menu:
   home: / || fa fa-home
   #tags: /tags/ || fa fa-tags
-  categories: /categories/ || fa fa-th
+  #categories: /categories/ || fa fa-th
   about: /about/ || fa fa-user
+  散文: /categories/%E6%95%A3%E6%96%87/ || fa fa-bolt
+  詩: /categories/%E8%A9%A9/ || fa fa-moon
   #archives: /archives/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap

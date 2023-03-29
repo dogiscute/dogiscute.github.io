@@ -1,5 +1,5 @@
 ---
 title: 新的文章
 date: 2023-03-01 10:33:11
-type: 文章類別
+type: categories 
 ---
